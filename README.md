@@ -46,7 +46,7 @@ Note:(App for windows only, as i made it in windows env. Idont have other kinds.
 
 "This app is licensed under Creative Commons NonCommercial license (CC NC, CC BY-NC or NC license)"
 
-To make your own font go to: https://www.calligraphr.com/en/
+#To make your own font go to: https://www.calligraphr.com/en/
 
 1)Create new account and use the template provided in the app and take a print out.
 
@@ -60,12 +60,12 @@ To make your own font go to: https://www.calligraphr.com/en/
 
 
 
-See the video for more info on how to use it.
-Youtube Video:
+#See the video for more info on how to use it.
+#Youtube Video:
 https://youtu.be/1ZK9r_5tZYI
 
 
-Now tutorial on how to use the app:(App for windows only, as i made it in windows env. Idont have other kinds.)
+#Now tutorial on how to use the app:(App for windows only, as i made it in windows env. Idont have other kinds.)
 
 1)Download the zip file from the github and extract it to the required location.
 
