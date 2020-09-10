@@ -2,7 +2,7 @@
 An app to change others writings into your own writing.
 
 
-Youtube Video tutorial on how to use the app:
+# Youtube Video tutorial on how to use the app:
 https://youtu.be/1ZK9r_5tZYI
 
 
@@ -92,7 +92,7 @@ Note:(App for windows only, as i made it in windows env. Idont have other kinds.
 10)In case of uninstall, restart the pc and delete the whole folder along with files in it.
 
 
-Youtube Video tutorial on how to use the app:
+# Youtube Video tutorial on how to use the app:
 https://youtu.be/1ZK9r_5tZYI
 
 
