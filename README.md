@@ -57,7 +57,7 @@ Note:(App for windows only, as i made it in windows env. Idont have other kinds.
 
 4)Copy the downloaded font and go to control panel, then go to Appearance and Personalization, then go to fonts.
 
-5) Now paste the file here and its ready for use.
+5)Now paste the file here and its ready for use.
 
 
 
